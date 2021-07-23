@@ -7,6 +7,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/url?label=%40Utsav_soni27&style=social&url=https%3A%2F%2Ftwitter.com%2FUtsav_soni27)](https://twitter.com/Utsav_soni27)
 [![Insta Badge](https://img.shields.io/badge/-@guycalledutsav-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/guycalledutsav/)
 [![Mail Badge](https://img.shields.io/badge/-utsav.soni.27@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:utsav.soni.27@gmail.com)
+[![Hackerrank Badge](https://img.shields.io/badge/-TheAlpha27-18d982?style=flat&labelColor=0c0c14&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/TheAlpha27)
 ---
 - Current Stack Includes:
     - HTML <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="30px" alt="HTML">
