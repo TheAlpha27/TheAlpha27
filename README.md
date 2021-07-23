@@ -3,6 +3,11 @@
 - I'm currently working on completing my MERN Stack.
 - I know a few languages other than Hindi and English.
 ---
+## Reach Me Out!📫 <br>
+[![Twitter Badge](https://img.shields.io/twitter/url?label=%40Utsav_soni27&style=social&url=https%3A%2F%2Ftwitter.com%2FUtsav_soni27)](https://twitter.com/Utsav_soni27)
+[![Insta Badge](https://img.shields.io/badge/-@guycalledutsav-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/guycalledutsav/)
+[![Mail Badge](https://img.shields.io/badge/-utsav.soni.27@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:utsav.soni.27@gmail.com)
+---
 - Current Stack Includes:
     - HTML <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="30px" alt="HTML">
     - CSS <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="20px" alt="HTML">
@@ -24,3 +29,7 @@
 - I use a creative approach to solve a problem. 
 - Even though I take my work seriously, I do have a good sense of humour.
 - I'm up for some front-end internships, do ping me if you have some work for me!
+---
+### GITHUB Stats:
+![Alpha's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAlpha27&show_icons=true&theme=tokyonight)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAlpha27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
