@@ -1,0 +1,26 @@
+# Sup! I'm Utsav Soni - aka TheAlpha27 <img src="https://media.tenor.com/images/3f12089a85c980dc2a5edb99a411b8a8/tenor.gif" width="50px" alt="Hello">
+## I'm a 2nd year IT Student at National Institute Of Technology Kurukshetra!
+- I'm currently working on completing my MERN Stack.
+- I know a few languages other than Hindi and English.
+---
+- Current Stack Includes:
+    - HTML <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="30px" alt="HTML">
+    - CSS <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="20px" alt="HTML">
+    - BootStrap <img align="center" src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png" width="25px" alt="HTML">
+    - JavaScript (5 ⭐ on Hackerrank) <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="25px" alt="HTML">
+    - C language (5 ⭐ on Hackerrank) <img align="center" src="https://img.icons8.com/color/452/c-programming.png" width="30px" alt="HTML">
+    - C++ (5 ⭐ on Hackerrank) <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="25px" alt="HTML">
+    - JAVA <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" width="40px" alt="HTML">
+---
+- Currently Learning:
+    - React.js
+    - Python
+---
+- Working On:
+    - Personal JavaScript Projects
+    - My Portfolio Website
+---
+- I'm a quick learner. 
+- I use a creative approach to solve a problem. 
+- Even though I take my work seriously, I do have a good sense of humour.
+- I'm up for some front-end internships, do ping me if you have some work for me!
