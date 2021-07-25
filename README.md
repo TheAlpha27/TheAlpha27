@@ -2,6 +2,7 @@
 ## I'm a 2nd year IT Student at National Institute Of Technology Kurukshetra!
 - I'm currently working on completing my MERN Stack.
 - I know a few languages other than Hindi and English.
+- I'm a Web Developer and a Competetive Programmer with 3⭐ on CodeChef.
 ---
 ## Reach Me Out!📫 <br>
 [![Twitter Badge](https://img.shields.io/twitter/url?label=%40Utsav_soni27&style=social&url=https%3A%2F%2Ftwitter.com%2FUtsav_soni27)](https://twitter.com/Utsav_soni27)
