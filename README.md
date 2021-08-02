@@ -2,6 +2,7 @@
 ## I'm a 2nd year IT Student at National Institute Of Technology Kurukshetra!
 - I'm currently working on completing my MERN Stack.
 - I know a few languages other than Hindi and English.
+- I have good knowledge of DSA.
 - I'm a Web Developer and a Competetive Programmer with 3⭐ on CodeChef.
 ---
 ## Reach Me Out!📫 <br>
