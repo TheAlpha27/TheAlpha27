@@ -22,6 +22,7 @@
     - C language (5 ⭐ on Hackerrank) <img align="center" src="https://img.icons8.com/color/452/c-programming.png" width="30px" alt="HTML">
     - C++ (5 ⭐ on Hackerrank) <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="25px" alt="HTML">
     - JAVA <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" width="40px" alt="HTML">
+    - MySQL <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="50px" alt="MySQL" align = "center">
 ---
 - Currently Learning:
     - React.js
