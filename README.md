@@ -14,7 +14,7 @@
 ### Profile Visitors:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TheAlpha27.TheAlpha27)
 ---
-- Current Stack Includes:
+- Familiar with following technologies:
     - HTML <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="30px" alt="HTML">
     - CSS <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="20px" alt="HTML">
     - BootStrap <img align="center" src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png" width="25px" alt="HTML">
