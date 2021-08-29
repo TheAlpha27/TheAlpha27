@@ -1,6 +1,6 @@
 # Sup! I'm Utsav Soni - aka TheAlpha27 <img src="https://media.tenor.com/images/3f12089a85c980dc2a5edb99a411b8a8/tenor.gif" width="50px" alt="Hello">
 ## I'm a 2nd year IT Student at National Institute Of Technology Kurukshetra!
-- I'm currently working on completing my MERN Stack.
+- MERN Stack Developer
 - I know a few languages other than Hindi and English.
 - I have good knowledge of DSA.
 - I'm a Web Developer and a Competitive Programmer with 3⭐ on CodeChef.
@@ -27,6 +27,7 @@
     - Node.js
     - Express.js
     - NPM
+    - React.js
 ---
 - I'm a quick learner. 
 - I use a creative approach to solve a problem. 
