@@ -28,6 +28,7 @@
     - Express.js
     - PHP
     - React.js
+    - jQuery
 ---
 - I'm a quick learner. 
 - I use a creative approach to solve a problem. 
