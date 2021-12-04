@@ -26,7 +26,7 @@
     - MongoDB
     - Node.js
     - Express.js
-    - NPM
+    - PHP
     - React.js
 ---
 - I'm a quick learner. 
