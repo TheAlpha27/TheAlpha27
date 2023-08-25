@@ -1,5 +1,5 @@
 # Sup! I'm Utsav Soni - aka TheAlpha27 <img src="https://media.tenor.com/images/3f12089a85c980dc2a5edb99a411b8a8/tenor.gif" width="50px" alt="Hello">
-## I'm a 3rd year IT Student at National Institute Of Technology Kurukshetra!
+## I'm a Final year IT Student at National Institute Of Technology Kurukshetra!
 - MERN Stack Developer
 - I know a few languages other than Hindi and English.
 - I have good knowledge of DSA.
